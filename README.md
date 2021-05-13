@@ -5,7 +5,7 @@ Let's learn the k mean algorithm through a small game. Through this game you wil
 link video post:
 https://www.linkedin.com/posts/trongduy-nguyen-37852920b_how-kmean-works-simulate-the-kmean-algorithm-activity-6797548292331970560-UrDY
 
-The program will use pygame to illustrate the pygame algorithm based on the following computation:
+The program will use pygame to illustrate the pygame algorithm based on the following calculation steps:
 
 Step 1. Select K points as cluster centers randomly. (K is the number of group/cluster)
 
